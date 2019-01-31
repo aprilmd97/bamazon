@@ -15,7 +15,11 @@ Here's a link: https://www.mysql.com/products/workbench/
 cd to the bamazonCustomer.js file
 
 npm install dotenv
+
+
 npm install inquirer
+
+
 npm install mysql
 
 node bamazonCustomer.js
